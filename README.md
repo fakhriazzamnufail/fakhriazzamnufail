@@ -1,81 +1,96 @@
-<!--
-GitHub Profile README
-Letakkan file ini pada repository dengan nama yang sama seperti username GitHub Anda:
-https://github.com/fakhriazzamnufail/fakhriazzamnufail
--->
-
 <div align="center">
 
-# Hi, I'm Fakhri Azzam Nufail 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111C33&height=190&section=header&text=Fakhri%20Azzam%20Nufail&fontSize=40&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Android%20Developer&descAlignY=65&descSize=16&descColor=94A3B8" alt="Fakhri Azzam Nufail" width="100%" />
 
-### Software Engineering Student | Laravel & Android Developer
+**Membangun perangkat lunak yang rapi, andal, dan terstruktur, dari sisi server hingga perangkat mobile.**
 
-I enjoy building practical applications, learning new technologies, and turning ideas into useful software.
-
-[![GitHub](https://img.shields.io/badge/GitHub-fakhriazzamnufail-181717?style=for-the-badge&logo=github)](https://github.com/fakhriazzamnufail)
+[![GitHub](https://img.shields.io/badge/GitHub-fakhriazzamnufail-0B1120?style=flat-square&logo=github&logoColor=white)](https://github.com/fakhriazzamnufail)
+![Role](https://img.shields.io/badge/Role-Software%20Engineering%20Student-1D4ED8?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Android-334155?style=flat-square)
 
 </div>
 
 ---
 
-## About Me
+## Tentang Saya
 
-- 🎓 I study Software Engineering (*Rekayasa Perangkat Lunak*).
-- 💻 I build web applications with **PHP and Laravel**.
-- 📱 I develop Android applications using **Kotlin and XML layouts**.
-- 🗄️ I work with relational databases and REST API integration.
-- 🚀 I am currently developing **Travelin**, an intercity travel booking platform.
-- 📚 I keep improving my programming skills through hands-on projects.
+Saya mahasiswa Rekayasa Perangkat Lunak yang berfokus pada pengembangan backend, aplikasi web, dan aplikasi Android. Saya tertarik pada cara sebuah sistem dirancang secara utuh: bagaimana data disimpan, bagaimana logika bisnis dijalankan, dan bagaimana pengguna berinteraksi dengannya.
 
-## Tech Stack
+**Pendekatan pengembangan**
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- Membangun aplikasi praktis yang menyelesaikan masalah nyata
+- Menulis kode yang bersih, terbaca, dan mudah dipelihara
+- Merancang sistem berbasis database dengan struktur yang konsisten
+- Mengintegrasikan layanan melalui REST API
+- Belajar secara berkelanjutan dan terus memperbaiki kualitas kerja
 
-## Featured Project
+---
 
-### [Travelin](https://github.com/fakhriazzamnufail/Travelin)
+## Keahlian Teknis
 
-An intercity travel booking platform designed to connect passengers with travel operators.
+| Kategori | Teknologi |
+| :-- | :-- |
+| **Bahasa Pemrograman** | PHP, Kotlin, JavaScript |
+| **Backend** | Laravel, REST API |
+| **Android** | Kotlin, Android SDK |
+| **Database** | MySQL |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Development Tools** | Git, GitHub |
 
-**Development focus:**
-- Laravel web application and role-based access for platform administrators, travel operators, drivers, and customers.
-- REST API authentication using Laravel Sanctum.
-- Android application built with Kotlin and XML layouts.
-- Database management and API integration.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,androidstudio,mysql,html,css,js,git,github&theme=dark&perline=10" alt="Technical skills" />
+</div>
 
-### [Travelin Mobile](https://github.com/fakhriazzamnufail/TravelinMobile)
+---
 
-The Android application for the Travelin platform, developed with Kotlin and designed to communicate with the Laravel backend through a REST API.
+## Bidang yang Diminati
 
-## Current Focus
+- **Backend Engineering**: arsitektur server, autentikasi, dan otorisasi
+- **Pengembangan REST API**: merancang dan menghubungkan layanan antar aplikasi
+- **Pengembangan Aplikasi Web**: aplikasi berbasis database dengan Laravel
+- **Pengembangan Aplikasi Android**: aplikasi mobile native dengan Kotlin
+- **Arsitektur Database**: perancangan skema, relasi, dan integritas data
 
-- Improving Laravel application architecture and API development.
-- Integrating Android applications with backend services.
-- Building clean, responsive, and user-friendly interfaces.
-- Strengthening problem-solving and software development practices.
+---
 
-## GitHub
+## Sedang Dipelajari
+
+- Prinsip clean code dan struktur proyek yang terorganisasi
+- Desain REST API yang konsisten dan terdokumentasi
+- Perancangan skema database dan optimasi query
+- Praktik keamanan dasar pada aplikasi web
+- Arsitektur aplikasi Android
+- Alur kerja Git dan kolaborasi menggunakan GitHub
+
+---
+
+## Statistik GitHub
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fakhriazzamnufail&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fakhriazzamnufail&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" alt="Statistik GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriazzamnufail&layout=compact&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1" alt="Bahasa yang paling sering digunakan" />
+
+<img src="https://streak-stats.demolab.com?user=fakhriazzamnufail&hide_border=true&background=0B1120&ring=3B82F6&fire=3B82F6&currStreakLabel=CBD5E1&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="Streak kontribusi" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fakhriazzamnufail&bg_color=0B1120&color=94A3B8&line=3B82F6&point=F8FAFC&area=true&area_color=3B82F6&hide_border=true" alt="Grafik kontribusi" width="100%" />
 
 </div>
 
 ---
 
+## Kontak Profesional
+
+[![GitHub](https://img.shields.io/badge/GitHub-fakhriazzamnufail-0B1120?style=flat-square&logo=github&logoColor=white)](https://github.com/fakhriazzamnufail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tambahkan%20URL-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME-ANDA)
+[![Email](https://img.shields.io/badge/Email-Tambahkan%20Alamat-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL-ANDA@example.com)
+
+---
+
 <div align="center">
 
-*Keep learning. Keep building. Keep improving.*
+*Rekayasa perangkat lunak adalah disiplin untuk terus belajar, menyempurnakan, dan membangun dengan tanggung jawab.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111C33&height=70&section=footer" alt="" width="100%" />
 
 </div>
